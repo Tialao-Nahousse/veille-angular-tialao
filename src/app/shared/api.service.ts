@@ -10,7 +10,7 @@ export class ApiService {
   constructor(private http : HttpClient) { }
 
   postEmploye(data : any){
-    return this.http.post<any>("https://tialao-angular-crud.herokuapp.com/posts", data)
+    return this.http.post<any>("https://tialao-angular-crud.herokuapp.com/", data)
     .pipe(map((res:any)=>{
       return res;
     }))
