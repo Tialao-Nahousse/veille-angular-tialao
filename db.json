@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "nom": "Koné",
+      "prenoms": "Esther",
+      "email": "Esther@gmail.com",
+      "contact": "0214568596",
+      "salaire": "30000"
+    },
+    {
+      "id": 4,
+      "nom": "Tialao",
+      "prenoms": "Nahoussé 2",
+      "email": "tialaonahousse@gmail.com",
+      "contact": "245689783200",
+      "salaire": "500000"
+    },
+    {
+      "id": 5,
+      "nom": "Dion",
+      "prenoms": "Hermine",
+      "email": "Hermine@gmail.com",
+      "contact": "1111111111",
+      "salaire": "1000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
